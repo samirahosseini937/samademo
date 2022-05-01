@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="aac">
+            <rect class="aac" width="16" height="16" rx="4" transform="translate(776 679)"/>
+        </clipPath>
+        <style>
+            .aac{fill:#4ad295}
+        </style>
+    </defs>
+    <g transform="translate(-860 -674)">
+        <rect width="24" height="24" rx="4" transform="translate(860 674)" style="fill:#b5ffe6"/>
+        <g transform="translate(88 -1)" style="clip-path:url(#aac)">
+            <path class="aac" d="M6.127,12.208a.817.817,0,0,1-1.155,0L.359,7.594a1.225,1.225,0,0,1,0-1.733l.578-.578a1.225,1.225,0,0,1,1.733,0l2.88,2.88L13.331.382a1.225,1.225,0,0,1,1.733,0l.578.578a1.225,1.225,0,0,1,0,1.733Zm0,0" transform="translate(776 680.765)"/>
+        </g>
+    </g>
+</svg>
